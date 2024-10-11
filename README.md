@@ -1,2 +1,1 @@
-# pointer_tagging
-Pointer tagging basic techniques
+# Different pointer tagging techniques
